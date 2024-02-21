@@ -4,3 +4,4 @@ build-mega2560/*
 *.fail
 *.old
 *.swp
+.history
